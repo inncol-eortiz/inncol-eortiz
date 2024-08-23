@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate student,  i love Frontend and general Web Development with JavaScript/TypeScript. In this moment i´m making my professional practices. 
+Passionate Frontend Developer and Student, I love web development with JavaScript/TypeScript. 
 
 
 # 💻 Tech Stack:
